@@ -4,7 +4,7 @@ https://github.com/users/uynuraw/packages/container/package/mypublic
 
 ## list of image
 openmaxio for arm64
-- ghcr.io/uynuraw/mypublic:openmaxio-v1.7.6-arm64
+- [ghcr.io/uynuraw/mypublic:openmaxio-v1.7.6-arm64](https://github.com/users/uynuraw/packages/container/mypublic/559064904?tag=openmaxio-v1.7.6-arm64)
 
 ## วิธีทำ
 1. สร้าง repo แบบ public
