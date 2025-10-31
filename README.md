@@ -5,6 +5,7 @@ https://github.com/users/uynuraw/packages/container/package/mypublic
 ## list of image
 openmaxio for arm64
 - [ghcr.io/uynuraw/mypublic:openmaxio-v1.7.6-arm64](https://github.com/users/uynuraw/packages/container/mypublic/559064904?tag=openmaxio-v1.7.6-arm64)
+- [ghcr.io/uynuraw/mypublic:my-kafka-v1.0](https://github.com/users/uynuraw/packages/container/mypublic/561911079?tag=my-kafka-v1.0)
 
 ## วิธีทำ
 1. สร้าง repo แบบ public
@@ -42,3 +43,8 @@ docker push ghcr.io/uynuraw/mypublic:openmaxio-v1.7.6-arm64
 docker push registry.gitlab.com/yuuplay/mypublic:openmaxio-v1.7.6-arm64
 
 ```
+
+## remark
+- Metered usage (https://github.com/settings/billing)
+- package แบบ public จะไม่คิด quota 
+- package แบบ private (free) จะมี storage 500 MB , data transfer 1GB (https://github.com/settings/billing )
