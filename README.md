@@ -5,6 +5,8 @@ https://github.com/users/uynuraw/packages/container/package/mypublic
 ## list of image
 openmaxio for arm64
 - [ghcr.io/uynuraw/mypublic:openmaxio-v1.7.6-arm64](https://github.com/users/uynuraw/packages/container/mypublic/559064904?tag=openmaxio-v1.7.6-arm64)
+
+kafka client (kafka-sh, kcat, rpk, curl(for connectors api))
 - [ghcr.io/uynuraw/mypublic:my-kafka-v1.0](https://github.com/users/uynuraw/packages/container/mypublic/561911079?tag=my-kafka-v1.0)
 
 ## วิธีทำ
